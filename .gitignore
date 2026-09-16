@@ -1,0 +1,6 @@
+# Work files and source-photo copies are not needed to deploy the site.
+work/
+outputs/syncronim-godaddy-upload.zip
+outputs/projects/*
+!outputs/projects/web/
+!outputs/projects/web/**
